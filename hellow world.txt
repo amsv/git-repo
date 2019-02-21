@@ -2,3 +2,4 @@ print hellow word
 print hellow word1
 print hellow 
 print hellow1
+print hellow my dear friend
